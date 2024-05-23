@@ -1,0 +1,5 @@
+ITEM_NUM#NAME#YEAR#SOURCE#WORTH
+3848#Mithril Shirt#2941#Thorin Oakenshield#14350
+3849#Magic Ring#2941#Gollum#99999
+3850#Sting#2941#Trollshaws#542
+3851#Elven Pipe#2943#Lord Elrond#300
